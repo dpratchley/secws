@@ -1,4 +1,4 @@
-# Lab 6: Database Vault test
+# Lab 6: Database Vault
 
 In many cases, it is no longer acceptable that over-privileged users (e.g. DBAs) see sensitive data in the system they manage. For instance, DBAs managing a health care system should not be able to see patients data. In this chapter, we will see how Database Vault can enforce these rules.
 
