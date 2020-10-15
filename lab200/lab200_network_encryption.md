@@ -24,7 +24,7 @@ This would address the following DBSAT finding:
 
 ![](./images/authentication.png)
 
-### Check Default Configuration
+### Check Default Configuration - THIS IS ON THE CLIENT!!
 
 Check that default configuration allows 11gr2 clients to connect
 
@@ -48,7 +48,7 @@ SQL> SQL>
 (...)
 ````
 
-### Set minimum client authentication version to 12
+### Set minimum client authentication version to 12 - THIS IS ON THE DB SERVER!
 
 Now run the following commands from a terminal connection to the database.
 
