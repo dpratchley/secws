@@ -2,9 +2,11 @@
 
 ## Workshop Overview ##
 
-This Oracle technical workshop is **FREE** for Oracle System Integrator, ISV, VAR and Platform Partners.
+This Oracle technical workshop is a complimentary offering to our customers. 
 
-Learn directly from Oracle Database Product Management how to identify threats and remediate them by leveraging Oracle Database Security features. Oracle Database Security Options are an essential part of the Oracle strategy to protect data and sensitive information in Oracle Databases and offer ways to comply with recent Data Privacy regulations such as EU GDPR. In this technical workshop, participants will learn from presentations and hands-on exercises about the Oracle Database Security features and options. This two-day workshop will cover all topics related to the main rings of data protection: preventive, detective and monitoring. The materials are applicable to various database releases (11gR2 through to 19c). It is also valid wherever the database is deployed On-Premises or in the Oracle Cloud. It also covers Autonomous Database Security.
+Come and learn how to identify threats and remediate them by leveraging Oracle Database Security features. Oracle Database Security Options are an essential part of the Oracle strategy to protect data and sensitive information in Oracle Databases and offer ways to comply with recent Data Privacy regulations such as EU GDPR. In this technical workshop, participants will learn from presentations and hands-on exercises about the Oracle Database Security features and options. We will cover all topics related to the main rings of data protection: preventive, detective and monitoring. 
+
+The materials are applicable to various database releases (11gR2 through to 19c). It is also valid wherever the database is deployed On-Premises or in the Oracle Cloud, and it includes coverage of Autonomous Database Security features.
 
 ## Workshop Requirements
 
@@ -14,12 +16,7 @@ Learn directly from Oracle Database Product Management how to identify threats a
 
 ## Agenda
 
-This workshop can be completed in one or two days, depending on the choice of labs to execute. Here are some possible agendas:
-* One day (Day1): When focussing on essentials (such as encryption and separation of duties).
-* A half day (Data Safe) when focussing on Cloud databases.
-* Two days (full workshop). The agenda for the full workshop is given below.
-
-## Day 1
+This workshop will cover the following topics:
 
 - **Lab 1 Database Security Assessment Tool** - Assessing the security of an On-Premise database with the Database Security Assessment Tool (DBSAT).
 
@@ -33,17 +30,11 @@ This workshop can be completed in one or two days, depending on the choice of la
 
 - **Lab 6: Database Vault** - Configuring Database Vault to protect the database from over-privileged users and implement Separation Of Duties.
 
-## Day 2
-
 - **Lab 7: Database Audit** - Configuring Unified Auditing and Unified Auditing policies.
 
 - **Lab 8: Audit Vault** - Using Audit Vault to manage audit data, view reports and create alerts.
 
-- **Data Safe (Part 1)** - Using Data Safe to bring DBSAT to Cloud databases and replace Audit Vault. PLease use the following link for [**Data Safe**](../DataSafe/ "Data Safe Labs") Labs 1 to 4.
-
 - **Lab 9: Data Masking** - Using Enterprise Manager Cloud Control Data Masking and Subsetting Pack to discover and anonymize sensitive data.
-
-- **Data Safe (Part 2)** - Using Data Safe to discover and anonymize sensitive data in Cloud databases.  PLease use the following link for [**Data Safe**](../DataSafe/ "Data Safe Labs") Lab 5.
 
 - **Lab 10: Running DBSAT again to compare results** - Using dbsat_diff companion utility to DBSAT to measure progress in securing a database.
 
@@ -65,7 +56,3 @@ This workshop can be completed in one or two days, depending on the choice of la
 **Authors**
 
 - Adrian Galindo, PTS LAD & François Pons, PTS EMEA - Database Product Management - April 2020.
-
-**Credits**
-
-- Data Safe Labs based on the materials from Oracle Database Security Product Management Team.
