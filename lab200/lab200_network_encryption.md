@@ -48,7 +48,7 @@ SQL> SQL>
 (...)
 ````
 
-### Set minimum client authentication version to 12 - THIS IS ON THE DB SERVER!
+### Set minimum client authentication version to 12 - THIS IS ON THE DB SERVER!!
 
 Now run the following commands from a terminal connection to the database.
 

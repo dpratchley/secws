@@ -396,7 +396,7 @@ Processing object type SCHEMA_EXPORT/POST_SCHEMA/PROCACT_SCHEMA
 Job "SYSTEM"."SYS_IMPORT_SCHEMA_01" successfully completed at Tue (...)
 ````
 
-Select the **Data Schema Changes** report in the **Built-in Reports** section and filter information on **PDB1**.
+Select the **Data Schema Changes** report under the **Built-in Reports** > **Activity Reports** section and filter information on **PDB1**.
 
 You should see the audit trace of Data Pump workers (**DW00**) processes.
 
@@ -411,7 +411,7 @@ We will start by loading DBSAT Discoverer’s report into Audit Vault.
 From the desktop connection to **secdb** (using **VNC**):
 
 *	Login to Audit Vault as **AVADMIN/Reganam_1**
-*	Go to **Secure Targets**
+*	Go to **Secured Targets**
 *	Click on **pdb1** to show the **Modify Secure Target** page
 *	Scroll  down to **Sensitive Objects**
 
@@ -527,7 +527,7 @@ In the Audit Vault Server, the **Home** page should now show the alert (you may 
 
 You can also view the alert report:
 
-**Reports** > **Built-in Reports** > **Activity Reports** > **Critical Alerts**
+**Reports** > **Built-in Reports** > **Activity Reports** > **Alert Reports** > **Critical Alerts**
 
 ![Alt text](./images/img48.png " ")
 
