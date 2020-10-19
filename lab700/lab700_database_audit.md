@@ -55,6 +55,8 @@ If your users only need to query the views but do not create audit policies, the
 
 Run the following script from a terminal window to the secdb server to check its current auditing status:
 
+**Remember to execute this on the DB SERVER!!**
+
 ````
 $ <copy>cd /home/oracle/HOL/lab07_audit</copy>
 ````
@@ -240,7 +242,7 @@ a.dbusername, a.CLIENT_PROGRAM_NAME, a.ACTION_NAME, a.RETURN_CODE, a.SQL_TEXT
 			order by EVENT_TIMESTAMP desc;``
 
 
-Let us use it to view recent audit records.
+Let us use it to view recent audit records. The query will pause for you to view the results. Press Return to view the next page.
 
 ````
 $ <copy>aud_95_view_audit.sh</copy>

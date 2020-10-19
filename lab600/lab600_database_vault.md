@@ -272,7 +272,7 @@ A **realm** is a grouping of database schemas, database objects, and database ro
 In the following demo, we will execute the following scenario:
 
 *	Create  a realm over the **HR** schema in **PDB1** – done by the Database Vault Owner
-*	Create a **HR_ROLE** role to grant application privileges to users. We’ll need to also protect this role by putting in inside the realm to prevent privileged users (**SYS** or **SYSTEM**) to modify it or to grant it to themselves
+*	Create a **HR_ROLE** role to grant application privileges to users. We’ll need to also protect this role by putting it inside the realm to prevent privileged users (**SYS** or **SYSTEM**) to modify it or to grant it to themselves
 *	We’ll also create two application users **appuser1** and **appuser2** and grant the required role only to **appuser1**
 
 ### Step 3a : Create a realm HR_REALM over the HR schema ###
@@ -430,7 +430,7 @@ PL/SQL procedure successfully completed.
 (...)
 ````
 
-### Step 3f : Verification ###
+### Step 3f : Verification - RUN ON DBCLIENT! ###
 
 We can now test from the dbclient client that only **APPUSER1** (and not **APPUSER2**) is able to run the application. Run the following script from a terminal window to the **dbclient** client.
 

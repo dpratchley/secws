@@ -15,7 +15,7 @@ The following is intended to outline our general product direction. It is intend
 
 **Network Encryption** is included with all editions since version 11gR2 so you can configure and start using it without any additional licensing.
 
-On Cloud environments is configured by default. In this chapter, we will address the problem of cyber-attacks and network hijacking and we learn how to configure it in an On Premise environment.
+On Cloud environments, it is configured by default. In this chapter, we will address the problem of cyber-attacks and network hijacking and we learn how to configure it in an On Premise environment.
 
 ## Step 1: Setting Minimum Client Authentication to version 12
 

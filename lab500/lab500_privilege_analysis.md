@@ -112,7 +112,7 @@ PL/SQL procedure successfully completed.
 
 ## Step 5 : Nicole does her work ##
 
-Now that the capture process is running, **Nicole** can connect and do her task. For instance, she may work as some SQL tuning tasks.
+Now that the capture process is running, **Nicole** can connect and do her task. For instance, she may work on some SQL tuning tasks.
 
 ````
 [oracle@secdb lab05_pa]$ <copy>pa30_work_nicole.sh</copy>

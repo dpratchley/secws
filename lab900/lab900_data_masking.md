@@ -140,7 +140,7 @@ We should now be ready to create an Application Data Model.
 ## Step 4 : Configure PDB MASKED in Enterprise Manager ##
 
 * Connect to Enterprise Manager (**SYSMAN / MyDbPwd#1**)
-* Got to **Setup** > **Add Target** > **Configure Auto Discovery**
+* Go to **Setup** > **Add Target** > **Configure Auto Discovery**
 * Select **secdb** and click on **Discover now**
 
 ![Alt text](./images/img07.png " ")
@@ -314,6 +314,8 @@ In the **Schedule Data Masking Job** screen, be sure to select the following:
 * Host & Database Credentials : select the default ones:
 
 ![Alt text](./images/img38.png " ")
+
+Click OK and submit the job.
 
 You can now compare the original and masked data in the database by running the following scripts on secdb:
 
