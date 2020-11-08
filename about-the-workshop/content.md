@@ -32,11 +32,13 @@ This workshop will cover the following topics:
 
 - **Lab 7: Database Audit** - Configuring Unified Auditing and Unified Auditing policies.
 
-- **Lab 8: Audit Vault** - Using Audit Vault to manage audit data, view reports and create alerts.
+- **Lab 8: Data Masking** - Using Enterprise Manager Cloud Control Data Masking and Subsetting Pack to discover and anonymize sensitive data.
 
-- **Lab 9: Data Masking** - Using Enterprise Manager Cloud Control Data Masking and Subsetting Pack to discover and anonymize sensitive data.
+- **Lab 9: Running DBSAT again to compare results** - Using dbsat_diff companion utility to DBSAT to measure progress in securing a database.
 
-- **Lab 10: Running DBSAT again to compare results** - Using dbsat_diff companion utility to DBSAT to measure progress in securing a database.
+- **Optional Lab**
+
+- **Lab 10: Audit Vault** - Using Audit Vault to manage audit data, view reports and create alerts.
 
 
 ## Accessing the labs ##
