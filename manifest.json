@@ -64,13 +64,13 @@
             "title": "Lab 9: Running DBSAT and compare results",
             "description":"Lab 9: DBSAT",
             "publisheddate": "04/21/2020",
-            "filename":"./lab900/lab900_data_masking.md"
+            "filename":"./lab900/lab900_dbsat_compare.md"
         },
         {
             "title": "Lab 10: Audit Vault: Optional",
-            "description":"Lab 10",
+            "description":"Lab 10: Audit Vault",
             "publisheddate": "04/21/2020",
-            "filename":"./lab1000/lab1000_dbsat_compare.md"
+            "filename":"./lab1000/lab1000_audit_vault.md"
         }
     ]
 }
