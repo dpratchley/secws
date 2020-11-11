@@ -51,8 +51,6 @@ This workshop will cover the following topics:
 
 - You may close the menu by clicking ![](./images/menu-close.png "")
 
-- Use the following link for [**Data Safe**](../DataSafe/ "Data Safe Labs") Labs.
-
 ## Acknowledgments
 
 **Authors**
