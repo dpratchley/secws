@@ -55,19 +55,19 @@
             "filename":"./lab700/lab700_database_audit.md"
         },
         {
-            "title": "Lab 8: Audit Vault",
+            "title": "Lab 8: Data Masking",
             "description":"Lab 8",
             "publisheddate": "04/21/2020",
-            "filename":"./lab800/lab800_audit_vault.md"
+            "filename":"./lab800/lab800_data_masking.md"
         },
         {
-            "title": "Lab 9: Data Masking",
-            "description":"Lab 9: Data Masking",
+            "title": "Lab 9: Running DBSAT and compare results",
+            "description":"Lab 9: DBSAT",
             "publisheddate": "04/21/2020",
             "filename":"./lab900/lab900_data_masking.md"
         },
         {
-            "title": "Lab 10: Running DBSAT and compare results",
+            "title": "Lab 10: Audit Vault: Optional",
             "description":"Lab 10",
             "publisheddate": "04/21/2020",
             "filename":"./lab1000/lab1000_dbsat_compare.md"
